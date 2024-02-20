@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Animation-Task/static/css/main.1503cbeb.css",
+    "main.js": "/Animation-Task/static/js/main.792cac72.js",
+    "static/js/453.3065685e.chunk.js": "/Animation-Task/static/js/453.3065685e.chunk.js",
+    "static/media/2.png": "/Animation-Task/static/media/2.fc02cb69f305eec34fb6.png",
+    "static/media/gbforanimi.png": "/Animation-Task/static/media/gbforanimi.830310e7f5d88e8c7ecd.png",
+    "static/media/healthysLogo.png": "/Animation-Task/static/media/healthysLogo.63ba68b8f84f34c850f5.png",
+    "static/media/3.png": "/Animation-Task/static/media/3.2b29eaf719a2a38e958b.png",
+    "static/media/logo.svg": "/Animation-Task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Animation-Task/index.html",
+    "main.1503cbeb.css.map": "/Animation-Task/static/css/main.1503cbeb.css.map",
+    "main.792cac72.js.map": "/Animation-Task/static/js/main.792cac72.js.map",
+    "453.3065685e.chunk.js.map": "/Animation-Task/static/js/453.3065685e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1503cbeb.css",
+    "static/js/main.792cac72.js"
+  ]
+}
