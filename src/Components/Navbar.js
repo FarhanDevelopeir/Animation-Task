@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "../Images/healthysLogo.png";
 
+
 const Navbar = () => {
   return (
     <div className="  absolute w-full  px-6 py-2 flex justify-between items-center">
